@@ -1,0 +1,34 @@
+h1{
+  align-content: center;
+  color: red;
+}
+body{
+  background-color: #052538;
+  text-align: center;
+  border: 40px solid #ca72fe;
+  border-top: 0px;
+  margin: 0px;
+}
+h2{
+  color: yellow;
+}
+p{
+  color: #9dd1f1;
+  padding-left: 20%;
+  padding-top: 5%;
+  padding-right: 20%;
+}
+#p2{
+  align-items: center;
+}
+form{
+  color: Green;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+#Sign{
+  background-color: YELLOW;
+  height: 40px;
+  width: 90px;
+  border-radius: 15%;
+}

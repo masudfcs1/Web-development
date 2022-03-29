@@ -1,0 +1,15 @@
+#p_one{
+  border: 1.5px solid red;
+  width: 100px;
+  bottom: auto;
+  text-align: center;
+  margin: auto;
+}
+
+#p_two{
+  border: 1.5px solid green;
+  width: 1%;
+  padding: 90px;
+  text-align: center;
+
+}

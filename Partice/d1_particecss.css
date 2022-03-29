@@ -1,0 +1,13 @@
+p{
+  color: Black;
+}
+div{
+
+  background-color: gray;
+  border-width: 1px;
+  border-style: dashed;
+}
+body{
+  background: url(https://cdn.futuresharks.com/wp-content/uploads/2019/04/jake.jpg);
+  background-repeat: no-repeat;
+}

@@ -1,0 +1,23 @@
+
+
+h1{
+  color: red;
+}
+
+p{
+  color: Black;
+}
+span{
+  color: Yellow;
+}
+div{
+  background-color: red;
+  border-color: blue;
+  border-width: 03px;
+  border-style: dotted;
+}
+
+body{
+background: url(https://cdn.futuresharks.com/wp-content/uploads/2019/04/jake.jpg);
+background-repeat: no-repeat;
+}
